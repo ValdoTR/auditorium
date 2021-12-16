@@ -218,7 +218,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable up to 120 users.\n\nThis map can be your cinema, your auditorium, or even your classroom. It is for you to choose what best fits your needs within this very simple yet efficient map."
+         "value":"Suitable for up to 120 users.\n\nThis map can be your cinema, your auditorium, or even your classroom. It is for you to choose what best fits your needs within this very simple yet efficient map."
         }, 
         {
          "name":"mapImage",
